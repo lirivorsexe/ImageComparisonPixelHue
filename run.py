@@ -3,7 +3,7 @@ import numpy as np
 from PIL import Image
 import math
 
-def get_Pixel(path):
+def get_Pixel(path): #тут был я 
     #modifies image to have 350 by 450 pixels and returns the pixel values in an image in a list given the path of the image.
     new_width = 350
     new_height = 450
